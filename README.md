@@ -1,8 +1,10 @@
 # CartPole-CrossEntropyMethod
 
-![CartPole](cartpole.jpg)
+![CartPole](images/cartpole.jpg)
 
-![Output](output.png)
+![Reward](images/reward.png)
+
+![Loss](images/loss.png)
 
 ## Installation
 
