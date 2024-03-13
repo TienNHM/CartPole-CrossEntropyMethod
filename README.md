@@ -2,6 +2,8 @@
 
 ![CartPole](cartpole.jpg)
 
+![Output](output.png)
+
 ## Installation
 
 - OpenAI Gym:
